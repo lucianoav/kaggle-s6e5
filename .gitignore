@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Dados brutos (baixar via KaggleSource)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Modelos, relatórios e submissões geradas localmente
+models/
+reports/
+submissions/
