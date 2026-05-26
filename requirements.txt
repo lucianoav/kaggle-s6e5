@@ -1,0 +1,11 @@
+# Ambiente usado nesta competição — Python 3.12.1
+# Para recriar: pip install -r requirements.txt
+
+mltemplate @ git+https://github.com/lucianoav/mltemplate.git@6327729ba865a67c7dbabd43e96f73405259aa6f
+
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+xgboost==3.1.1
+lightgbm==4.6.0
+optuna==4.5.0
